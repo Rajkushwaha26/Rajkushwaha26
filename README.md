@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rajkushwaha26
-- 👀 I’m interested in AI ML IOT Many more.
-- 🌱 I’m currently pursuing Btech in Information Technology
+- 👀 I’m a Software Engineer || Aws Cloud Engineer || Saleforce Developer .
+- 🌱 I Have Completed my Btech from LNCT Bhopal in the field of Information Technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by message me on my mail id rajkushwah262000@gmail.com
+- 📫 How to reach me by message me on my mail id rajkushwah262000@gmail.com and 7477201820
 
 <!---
 Rajkushwaha26/Rajkushwaha26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
